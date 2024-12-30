@@ -40,10 +40,8 @@
 ## Features
 
 1. Full-stack Web app (Client, Admin and Middleware)
-2. User Authentication and Authorization
-3. Database setup
-
-
-## Insights
-
-Insights will be added soon.
+2. User Authentication and Authorization with JWT
+3. Database setup using MongoDB
+4. Cart management
+5. Image upload using Multer
+6. Deployed and managed via Render
