@@ -44,4 +44,5 @@
 3. Database setup using MongoDB
 4. Cart management
 5. Image upload using Multer
-6. Deployed and managed via Render
+6. Payment gateway intergated with Stripe
+7. Deployed and managed via Render
