@@ -6,7 +6,7 @@ const stripe = new Stripe(process.env.STRIPE)
 
 export const placeOrder = async (req, res) => {
 
-    const frontEndUrl = "http://localhost:5173";           //Frontend url
+    const frontEndUrl = "https://fooddelivery-frontend-szy1.onrender.com";           //Frontend url
 
     try {
         const newOrder = new orderModel({
