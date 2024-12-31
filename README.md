@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <img src="poster.png" alt="View" width="500" height="250"/> 
-  <h3 align="center">Food Delivery App</h3>
+  <h3 align="center">Online Food Ordering System</h3>
 
   <p align="center">
      <em>Full-stack Food Delivery platform developed using the MERN stack. It offers a seamless and user-friendly experience for both customers and administrators, ensuring efficient management of food orders, menu items, and delivery processes.</em>
