@@ -13,8 +13,8 @@
 
 ## Links
 
-Admin Panel - https://fooddelivery-admin-ouel.onrender.com
-Client Panel - https://fooddelivery-frontend-szy1.onrender.com
+1. Admin Panel - https://fooddelivery-admin-ouel.onrender.com
+2. Client Panel - https://fooddelivery-frontend-szy1.onrender.com
 
 
 ## Built with
