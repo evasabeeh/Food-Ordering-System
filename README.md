@@ -11,6 +11,12 @@
 </p>
 
 
+## Links
+
+Admin Panel - https://fooddelivery-admin-ouel.onrender.com
+Client Panel - https://fooddelivery-frontend-szy1.onrender.com
+
+
 ## Built with
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/615px-Vitejs-logo.svg.png?20220412224743" alt="vite" width="80" height="80"/>
@@ -46,3 +52,5 @@
 5. Image upload using Multer
 6. Payment gateway intergated with Stripe
 7. Deployed and managed via Render
+ 
+
